@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(28, 2, 71);
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+   align-items: center;
+    }
+    
+    .box {    
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    border: 3px solid rgb(176, 173, 221);
+    text-align: center;
+    border-radius: 25px;
+    }
+
+h1{
+    text-align: center;
+    color: rgb(193, 183, 243);
+}
+
+h2{
+    text-align: center;
+    color: rgb(193, 183, 243);
+}
+
+
+.texte{
+ text-align: center;
+ color: rgb(190, 159, 242);
+}
+.Niveau{
+    text-align: center;
+ color: rgb(190, 159, 242); 
+}
+
+.inline{
+    display: inline-block;
+    margin-right: 20px;
+  }
+
+.line{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#couprestant{
+color:aquamarine;
+}
+
+#paires{
+    color:aquamarine;
+}
+
+#time{
+    color: aquamarine;
+}
+
+#niveau{
+    color: aquamarine;
+}
+   
+p{
+    color: rgb(189, 27, 192); 
+    text-align: center;  
+}
+
+
+
+
